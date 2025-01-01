@@ -1,0 +1,45 @@
+
+    [
+      {
+        "question": "How do I create an account?",
+        "answer": "To create an account, click on the 'Sign Up' button on the homepage, fill in your details, and follow the verification process."
+      },
+      {
+        "question": "How can I apply for a job?",
+        "answer": "Log in to your account, search for a job using keywords or filters, and click on 'Apply Now' on the job listing page."
+      },
+      {
+        "question": "Is there a fee to use the job portal?",
+        "answer": "No, our job portal is free for job seekers. Employers may have premium posting options."
+      },
+      {
+        "question": "How do I reset my password?",
+        "answer": "Click on 'Forgot Password' on the login page, enter your registered email address, and follow the instructions sent to your email."
+      },
+      {
+        "question": "Can I update my profile information?",
+        "answer": "Yes, you can update your profile by navigating to 'My Profile' in your account dashboard and editing the respective fields."
+      },
+      {
+        "question": "How do I upload my resume?",
+        "answer": "Go to 'My Profile', click on 'Upload Resume', and select the file you want to upload. Ensure it is in an accepted format such as PDF or Word."
+      },
+      {
+        "question": "What should I do if I encounter a technical issue?",
+        "answer": "If you face any technical issues, contact our support team through the 'Help Center' or email us at support@jobportal.com."
+      },
+      {
+        "question": "Can I save jobs to apply later?",
+        "answer": "Yes, you can save jobs by clicking on the 'Save Job' button on the job listing. You can view your saved jobs in the 'Saved Jobs' section of your account."
+      },
+      {
+        "question": "How do I track my job applications?",
+        "answer": "Go to the 'Applications' section in your account to view the status of your submitted job applications."
+      },
+      {
+        "question": "Are there privacy settings for my profile?",
+        "answer": "Yes, you can control the visibility of your profile and resume by adjusting the privacy settings in your account preferences."
+      }
+    ]
+  
+  
