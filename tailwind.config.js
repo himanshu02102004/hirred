@@ -1,21 +1,22 @@
+
 /** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
 	darkMode: ["class"],
 	content: [
-	  "./index.html",             // Include the main HTML file
-	  "./src/**/*.{js,ts,jsx,tsx}", // Include all JavaScript and TypeScript files in the src directory
+	  "./index.html",
+	  "./src/**/*.{js,ts,jsx,tsx}",
 	],
 	theme: {
 	  extend: {
 		container: {
-			center: true,
-			padding: {
-				DEFAULT: "2rem", // Default for all screens
-				sm: "1rem",      // Small screens
-				lg: "3rem",      // Large screens
-				xl: "5rem",      // Extra-large screens
-			  },
+		  center: true,
+		  padding: {
+			DEFAULT: "2rem",
+			sm: "1rem",
+			lg: "3rem",
+			xl: "5rem",
 		  },
+		},
 		borderRadius: {
 		  lg: "var(--radius)",
 		  md: "calc(var(--radius) - 2px)",
@@ -89,4 +90,4 @@ export default {
 	},
 	plugins: [require("tailwindcss-animate")],
   };
-  
+	
