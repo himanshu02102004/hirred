@@ -9,7 +9,7 @@ import MDEditor from "@uiw/react-md-editor";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import ApplyJobDrawer from "@/components/apply-job";
 import ApplicationCard from "@/components/application-card";
-import { Modal } from "@/components/ui/modal";
+import { Modal } from "@/components/modal";
 
 const JobPage = () => {
   const { id } = useParams();
