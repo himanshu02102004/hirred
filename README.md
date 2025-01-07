@@ -1,8 +1,5 @@
-# React + Vite
+A modern job portal application that connects job seekers with employers. Built with a responsive UI, intuitive job search functionality, and user-friendly job posting capabilities. This project is designed to streamline the hiring process and help candidates find their dream jobs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Check out the live demo:     https://hirred-himanshus-projects-12d724e0.vercel.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
